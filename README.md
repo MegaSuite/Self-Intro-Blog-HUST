@@ -3,7 +3,7 @@
 
 Copyright (C) 2019 WowThemes.net.
 
-Designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+Designed and developed by Sal under MIT license. 
 
 Let's make this even better!
 
