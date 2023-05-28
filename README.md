@@ -1,5 +1,6 @@
 ## Build Up With Mundana - Free Bootstrap HTML Blogging Template
 
+Blog Page Project for Freshman Practice Sessions of Huazhong University of Science and Technology
 
 Copyright (C) 2019 WowThemes.net.
 
