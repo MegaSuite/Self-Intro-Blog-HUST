@@ -5,13 +5,13 @@
 </h2>
 
 <h3 align='center'>
-  
-Copyright (C) 2019 WowThemes.net.
 
-Designed and developed by Sal under MIT license. 
+The spirit of the internet is the spirit of global access.
 
-Let's make this even better!
+It is the ability to know and experience anything and everything.
 
-Thanks for your support!
+Guard the freedom of information by mass collaboration.
 
 </h3>
+Designed and developed by Sal under MIT license. 
+Copyright (C) 2019 WowThemes.net.
