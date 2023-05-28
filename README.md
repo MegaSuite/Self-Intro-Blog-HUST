@@ -1,6 +1,8 @@
 # Build Up With Mundana - Free Bootstrap HTML Blogging Template
 
-Blog Page Project for Freshman Practice Sessions of Huazhong University of Science and Technology
+<h2 align='center'
+    Blog Page Project for Freshman Practice Sessions of Huazhong University of Science and Technology
+</h2>
 
 <h3 align='center'>
   
@@ -10,6 +12,6 @@ Designed and developed by Sal under MIT license.
 
 Let's make this even better!
 
-Thank you for your support!
+Thanks for your support!
 
 </h3>
