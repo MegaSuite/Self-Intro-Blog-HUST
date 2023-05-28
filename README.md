@@ -1,7 +1,7 @@
 # Build Up With `Mundana - Free Bootstrap HTML Blogging Template`
 
 <h2 align='center'>
-    Blog Page Project for Freshman Practice Sessions of Huazhong University of Science and Technology
+    Self-Intro Blog Page Project for Freshman Practice Sessions of Huazhong University of Science and Technology
 </h2>
 
 <h3 align='center'>
@@ -13,6 +13,7 @@ It is the ability to know and experience anything and everything.
 Guard the freedom of information by mass collaboration.
 
 </h3>
+
 Designed and developed by Sal under MIT license. 
 
 Copyright (C) 2019 WowThemes.net.
