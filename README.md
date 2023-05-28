@@ -14,4 +14,5 @@ Guard the freedom of information by mass collaboration.
 
 </h3>
 Designed and developed by Sal under MIT license. 
+
 Copyright (C) 2019 WowThemes.net.
