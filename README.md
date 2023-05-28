@@ -1,6 +1,6 @@
 # Build Up With Mundana - Free Bootstrap HTML Blogging Template
 
-<h2 align='center'
+<h2 align='center'>
     Blog Page Project for Freshman Practice Sessions of Huazhong University of Science and Technology
 </h2>
 
